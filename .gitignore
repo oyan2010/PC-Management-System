@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.exe
+*.dll
+
+# Virtual environment
+.env
+.venv
+env/
+venv/
+
+# Temporary files
+temp/
+*.tmp
+*.log
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
